@@ -1,6 +1,6 @@
 # 👨‍💻 Mateus Araújo
 
-### Graduando em Ciências e Tecnologia na UFRN
+### Bacharel em Ciências e Tecnologia (UFRN) e graduando em Engenharia da Computação (UFRN).
 
 Me chamo Mateus Araújo, tenho experiência prática na organização e controle de dados corporativos e atualmente estou transicionando para a área de **Dados e IA**.
 
