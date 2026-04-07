@@ -23,12 +23,10 @@ Atualmente, complemento minha formação acadêmica com estudos focados em **pro
 
 ### 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/Mateus-VF-Araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-VF-Araujo&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-VF-Araujo&layout=compact&theme=dracula"/>
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-VF-Araujo&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-VF-Araujo&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
