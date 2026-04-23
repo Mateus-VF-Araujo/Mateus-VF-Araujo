@@ -27,7 +27,6 @@ At present, I am focusing my studies and practical work on **programming and dat
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40">](https://numpy.org/) &nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40">](https://scikit-learn.org/) &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="40">](https://www.microsoft.com/)
-
 <br>
 
 ---
