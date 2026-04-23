@@ -11,9 +11,9 @@
 
 ---
 ### 📖 About Me
-With a solid background in organizing and managing corporate data, I am currently transitioning into the field of **Data and Artificial Intelligence**. 
+With a solid background in organizing and managing corporate data, i am currently transitioning into the field of **Data and Artificial Intelligence**. 
 
-At present, I am focusing my studies and practical work on **programming and data analysis**. I have hands-on experience developing AI projects, most notably creating **object detection models** where I utilized the **Python ecosystem (PyTorch, Pandas, NumPy)** for training and validation. Additionally, I have consolidated my expertise in Data Science by performing everything from data cleaning and preprocessing to exploratory analysis on complex datasets to extract actionable insights.
+At present, i am focusing my studies and practical work on **programming and data analysis**. I have hands-on experience developing AI projects, most notably creating **object detection models** where i utilized the **Python ecosystem (PyTorch, Pandas, NumPy)** for training and validation. Additionally, i have consolidated my expertise in Data Science by performing everything from data cleaning and preprocessing to exploratory analysis on complex datasets to extract actionable insights.
 
 ---
 
