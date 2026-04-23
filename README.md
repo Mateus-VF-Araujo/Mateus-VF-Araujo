@@ -2,24 +2,17 @@
 
 ### B.Sc. in Science and Technology and Undergraduate student in Computer Engineering at UFRN
 
-Hello! I'm Mateus Araújo. With a solid background in organizing and managing corporate data, i am currently transitioning into the field of **Data and Artificial Intelligence**. 
+Hello! I'm Mateus Araújo. With a solid background in organizing and managing corporate data, I am currently transitioning into the field of **Data and Artificial Intelligence**. 
 
-At present, i am focusing my studies and practical work on **programming and data analysis**. I have hands-on experience developing AI projects, most notably creating **object detection models** where I utilized the **Python ecosystem (PyTorch, Pandas, NumPy)** for training and validation. Additionally, I have consolidated my expertise in Data Science by performing everything from data cleaning and preprocessing to exploratory analysis on complex datasets to extract actionable insights.
+At present, I am focusing my studies and practical work on **programming and data analysis**. I have hands-on experience developing AI projects, most notably creating **object detection models** where I utilized the **Python ecosystem (PyTorch, Pandas, NumPy)** for training and validation. Additionally, I have consolidated my expertise in Data Science by performing everything from data cleaning and preprocessing to exploratory analysis on complex datasets to extract actionable insights.
 
 ---
 
-### 🚀 Technologies and Tools
+### ⚙️ Technologies and Tools
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sklearn/sklearn-original.svg">
-  <img align="center" alt="Excel" height="30" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<div>
+  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> <img alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"> <img alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"> <img alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"> <img alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"> <img alt="Excel" height="30" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </div>
-
-<br/>
 
 ---
 
