@@ -1,44 +1,46 @@
 # 👨‍💻 Mateus Araújo
 
-### Bacharel em Ciências e Tecnologia (UFRN) e graduando em Engenharia da Computação (UFRN).
+### B.Sc. in Science and Technology and Undergraduate student in Computer Engineering at UFRN
 
-Me chamo Mateus Araújo, tenho experiência prática na organização e controle de dados corporativos e atualmente estou transicionando para a área de **Dados e IA**.
+Hello! I'm Mateus Araújo. With a solid background in organizing and managing corporate data, i am currently transitioning into the field of **Data and Artificial Intelligence**. 
 
-Atualmente, complemento minha formação acadêmica com estudos focados em **programação e análise de dados**. Na prática, venho desenvolvendo projetos voltados para Inteligência Artificial, com destaque para a criação de um **modelo de detecção de objetos** onde utilizei **Python** e **PyTorch** para o treinamento e validação. Além disso, consolidei meus conhecimentos em Ciência de Dados realizando a limpeza e análise exploratória de datasets complexos.
+At present, i am focusing my studies and practical work on **programming and data analysis**. I have hands-on experience developing AI projects, most notably creating **object detection models** where I utilized the **Python ecosystem (PyTorch, Pandas, NumPy)** for training and validation. Additionally, I have consolidated my expertise in Data Science by performing everything from data cleaning and preprocessing to exploratory analysis on complex datasets to extract actionable insights.
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 Technologies and Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Excel" height="30" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Scikit-learn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sklearn/sklearn-original.svg">
+  <img align="center" alt="Excel" height="30" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
 </div>
 
 <br/>
 
 ---
 
-### 📊 Estatísticas
+### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/Mateus-VF-Araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-VF-Araujo&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-VF-Araujo&layout=compact&theme=dracula"/>
-  </a>
+  <a href="https://github.com/Mateus-VF-Araujo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-VF-Araujo&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-VF-Araujo&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
 ---
 
-### 📫 Contato
+### 📫 Contact Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/mateusvfaraujo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:mateus.vf.araujo003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  <a href="https://www.linkedin.com/in/mateusvfaraujo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:mateus.vf.araujo003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
